@@ -37,7 +37,7 @@ if executar:
     )
 
 agente_exemplos = Agent(
-        role="Criador de xemplos contextualizados.",
+        role="Criador de exemplos contextualizados.",
         goal=(
             "Gera 5 EXEMPLOS CURTOS sobre {tema}, cada um com contexto realista."
             "Cada exemplo com um título (em negrito), cenário, dados (se houver), aplicação e resultado."
